@@ -2,3 +2,52 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body {
+  background-color: #6096B4;
+}
+
+a {
+  color: #EEE9DA;
+}
+
+.header_contact {
+  font-weight: 100;
+}
+
+#header_id {
+  display: inline;
+}
+
+#img_2{
+  float: right;
+}
+
+/* YouTube_CSS */
+
+#Youtube_HTML{
+  float: left;
+}
+
+#Youtube_CSS{
+  float: Right;
+}
+/* Button CSS */
+
+button {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 5%;
+  float: right;
+}
+
+#button {
+  text-align: right;
+
+}
+
+#header_mobile {
+  text-align: right;
+}
